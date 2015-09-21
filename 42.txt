@@ -1,1 +1,1 @@
-test_local
+test_distant
